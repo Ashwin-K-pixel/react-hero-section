@@ -1,0 +1,64 @@
+#service-card-div {
+    border: solid 2px black;
+    width: 40%;
+    height: 310px;
+    width: 600px;
+    display: flex;
+    border-radius: 25px;
+    box-shadow: 0 5px 5px black;
+}
+
+
+/* LEFT SECTION */
+.left-section-div {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    justify-content: space-around;
+}
+
+.service-title-div { 
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 38.28px;
+    text-align: left;
+    margin-left: 25%;
+    font-family: "Space Grotesk", sans-serif;
+}
+
+.service-title-text-1, .service-title-text-2 {   
+    font-family: "Space Grotesk", sans-serif;
+    border-radius: 10px;
+    display: inline-block;
+    padding-right: 5px;
+}
+
+
+
+.dark-icon-div {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    align-items: center;
+}
+
+.learn-more-text {
+    font-family: "Space Grotesk", sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 28px;
+    padding-bottom: 5px;
+}
+
+/* RIGHT SECTION */
+
+.right-section-div {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+

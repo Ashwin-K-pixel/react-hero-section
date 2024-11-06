@@ -1,0 +1,28 @@
+#left-section-div {
+    width: 50%;
+    margin-left: 5em;
+}
+
+.left-section-content-div { 
+    width: 90%;
+    text-align: left;
+}
+
+.left-section-heading-text {
+    font-family: "Space Grotesk", sans-serif;
+    font-size: 60px;
+    font-weight: 500;
+    line-height: 76.56px;
+    text-align: left;
+    margin-bottom: 0;
+}
+
+.left-section-content-description-div {
+    text-align: left;
+}
+
+.left-section-content-description-txt {
+    font-family: "Space Grotesk", sans-serif;
+    font-size: 20px;
+    text-align: left;   
+}

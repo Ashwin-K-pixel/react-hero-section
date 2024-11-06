@@ -1,0 +1,8 @@
+.btn-div {
+    background-color: white;
+    border: 2px solid black;
+    width: 180px;
+    border-radius: 15px;
+    font-family: "Space Grotesk", sans-serif;
+    padding: 0 10px;
+}
